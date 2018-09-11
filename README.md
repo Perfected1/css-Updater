@@ -1,2 +1,2 @@
 # css-Updater
-update my css varaible using javaScript
+updates css varaible using javaScript
